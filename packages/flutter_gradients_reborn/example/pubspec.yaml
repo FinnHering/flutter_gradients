@@ -2,13 +2,13 @@ name: flutter_gradients_example
 description: Demonstrates how to use the flutter_gradients_reborn plugin.
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^0.1.2
+  cupertino_icons: ^1.0.4
   flutter_gradients_reborn:
     path: ../
 
