@@ -1,7 +1,7 @@
 # Flutter Gradients Reborn
 <img src="https://raw.githubusercontent.com/FinnHering/flutter_gradients/master/images/header.jpg" align="center" alt="Header" width="100%"/>
 
-Disclaimer: The only thing I did was migrate the project to have null safety. The Author of this fork is in no way associated with the original project. This is the original project: https://pub.dev/packages/flutter_gradients
+Disclaimer: The only thing I did was migrate the project to have null safety (I might or might not add some gradients). The Author of this fork is in no way associated with the original project. This is the original project: https://pub.dev/packages/flutter_gradients
 
 A curated collection of awesome gradients made in Dart (port of [https://webgradients.com](https://webgradients.com) for Flutter). Only linear gradients included for now.
 
