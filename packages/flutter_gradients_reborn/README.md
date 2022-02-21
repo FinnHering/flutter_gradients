@@ -1,5 +1,5 @@
 # Flutter Gradients Reborn
-<img src="https://raw.githubusercontent.com/FinnHering/flutter_gradients/master/images/header.jpg" align="center" alt="Header" height="500" width="100%"/>
+<img src="https://raw.githubusercontent.com/FinnHering/flutter_gradients/master/images/header.jpg" align="center" alt="Header" width="100%"/>
 
 Disclaimer: The only thing I did was migrate the project to have null safety. The Author of this fork is in no way associated with the original project. This is the original project: https://pub.dev/packages/flutter_gradients
 
