@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gradients/flutter_gradients.dart';
+import 'package:flutter_gradients_reborn/flutter_gradients_reborn.dart';
 
 void main() {
   runApp(

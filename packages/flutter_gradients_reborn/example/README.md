@@ -4,7 +4,7 @@ A simple way to use this library.
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_gradients/flutter_gradients.dart';
+import 'package:flutter_gradients_reborn/flutter_gradients_reborn.dart';
 
 class MyApp extends StatefulWidget {
   @override

@@ -1,0 +1,20 @@
+name: flutter_gradients_reborn
+description: A curated collection of awesome gradients made in Dart for Flutter with null safety
+version: 1.0.0+3
+
+
+homepage: https://github.com/fluttercommunity/flutter_gradients_reborn
+maintainer: Finn Hering (@FinnHering)
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  vector_math: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

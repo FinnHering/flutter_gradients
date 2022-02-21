@@ -1,11 +1,13 @@
 import 'dart:math' as math;
 
 import 'package:flutter/widgets.dart';
-import 'package:flutter_gradients/src/core/flutter_gradients_names.dart';
-import 'package:flutter_gradients/src/core/flutter_gradients_type.dart';
-import 'package:flutter_gradients/src/core/flutter_linear_gradients.dart';
-import 'package:flutter_gradients/src/core/flutter_radial_gradients.dart';
-import 'package:flutter_gradients/src/core/flutter_sweep_gradients.dart';
+import 'package:flutter_gradients_reborn/src/core/flutter_gradients_type.dart';
+import 'package:flutter_gradients_reborn/src/core/flutter_linear_gradients.dart';
+import 'package:flutter_gradients_reborn/src/core/flutter_radial_gradients.dart';
+import 'package:flutter_gradients_reborn/src/core/flutter_sweep_gradients.dart';
+import 'package:flutter_gradients_reborn/src/core/flutter_gradients_names.dart';
+
+import 'core/flutter_gradients_type.dart';
 
 /// A 2D Gradient generator.
 ///

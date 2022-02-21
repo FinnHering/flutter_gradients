@@ -28,7 +28,7 @@ dependencies:
 ### Import the package
 
 ```dart
-import 'package:flutter_gradients/flutter_gradients.dart';
+import 'package:flutter_gradients_reborn/flutter_gradients_reborn.dart';
 ```
 
 ## How To Use

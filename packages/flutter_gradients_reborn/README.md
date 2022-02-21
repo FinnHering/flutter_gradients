@@ -1,18 +1,12 @@
-[![Flutter Community: after_layout](https://fluttercommunity.dev/_github/header/flutter_gradients)](https://github.com/fluttercommunity/community)
+# Flutter Gradients Reborn
+**Disclaimer: The only thing I did was migrate the project to have null safety. The Author of this fork is in no way associated with the original project. **
 
-# Flutter Gradients
-
-<img src="https://raw.githubusercontent.com/JonathanMonga/flutter_gradients/master/images/header.jpg" align="center" alt="Header" height="500" width="100%"/>
+Original Project: https://pub.dev/packages/flutter_gradients
 
 A curated collection of awesome gradients made in Dart (port of [https://webgradients.com](https://webgradients.com) for Flutter). Only linear gradients included for now.
 
-[![Pub](https://img.shields.io/badge/pub-1.0.0+3-blue)](https://pub.dev/packages/flutter_gradients)
-[![Build Status](https://travis-ci.org/JonathanMonga/flutter_gradients.svg?branch=master)](https://travis-ci.org/JonathanMonga/flutter_gradients)
+[![Pub](https://img.shields.io/badge/pub-1.0.0+3-blue)](https://pub.dev/packages/flutter_gradients_reborn)
 
-### Show some :heart: and star the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/JonathanMonga/flutter_gradients.svg?style=social&label=Star)](https://github.com/JonathanMonga/flutter_gradients) [![GitHub forks](https://img.shields.io/github/forks/JonathanMonga/flutter_gradients.svg?style=social&label=Fork)](https://github.com/JonathanMonga/flutter_gradients/fork) [![GitHub watchers](https://img.shields.io/github/watchers/JonathanMonga/flutter_gradients.svg?style=social&label=Watch)](https://github.com/JonathanMonga/flutter_gradients) [![GitHub followers](https://img.shields.io/github/followers/JonathanMonga.svg?style=social&label=Follow)](https://github.com/JonathanMonga)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonathan_monga.svg?style=social)](https://twitter.com/jonathan_monga)
 
 ## Installation
 
@@ -20,7 +14,7 @@ Add the Package
 
 ```yaml
 dependencies:
-  flutter_gradients: ^1.0.0+3
+  flutter_gradients_reborn: ^1.0.0+3
 ```
 
 # Usage
@@ -28,7 +22,7 @@ dependencies:
 ### Import the package
 
 ```dart
-import 'package:flutter_gradients/flutter_gradients.dart';
+import 'package:flutter_gradients_reborn/flutter_gradients_reborn.dart';
 ```
 
 ## How To Use
