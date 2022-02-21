@@ -4,8 +4,7 @@
 
 A curated collection of awesome gradients made in Dart (port of [https://webgradients.com](https://webgradients.com) for Flutter). Only linear gradients included for now.
 
-[![Pub](https://img.shields.io/badge/pub-1.0.0+3-blue)](https://pub.dev/packages/flutter_gradients)
-[![Build Status](https://travis-ci.org/FinnHering/flutter_gradients.svg?branch=master)](https://travis-ci.org/FinnHering/flutter_gradients)
+[![Pub](https://img.shields.io/badge/pub-1.0.0+3-blue)](https://pub.dev/packages/flutter_gradients_reborn)
 
 ### Show some :heart: and star the repo to support the project
 
@@ -17,7 +16,7 @@ Add the Package
 
 ```yaml
 dependencies:
-  flutter_gradients: ^1.0.0+3
+  flutter_gradients_reborn: ^1.0.0+3
 ```
 
 # Usage
@@ -25,7 +24,7 @@ dependencies:
 ### Import the package
 
 ```dart
-import 'package:flutter_gradients/flutter_gradients.dart';
+import 'package:flutter_gradients_reborn/flutter_gradients_reborn.dart';
 ```
 
 ## How To Use
