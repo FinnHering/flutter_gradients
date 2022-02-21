@@ -1,9 +1,9 @@
 name: flutter_gradients_reborn
 description: A curated collection of awesome gradients made in Dart for Flutter with null safety
-version: 1.0.0+4
+version: 1.0.0+5
 
 
-homepage: https://github.com/fluttercommunity/flutter_gradients_reborn
+homepage: https://github.com/FinnHering/flutter_gradients_reborn
 maintainer: Finn Hering (@FinnHering)
 
 environment:
