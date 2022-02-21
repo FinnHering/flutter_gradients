@@ -1,3 +1,7 @@
+## 1.0.0+7
+- Fixed android compile pipeline for the example
+- Migrated example to support sound null safety
+
 ## 1.0.0+6
 - Fix wrong homepage link
 
