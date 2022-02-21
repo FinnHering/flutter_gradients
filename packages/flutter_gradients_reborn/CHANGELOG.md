@@ -1,3 +1,7 @@
+## 1.0.0+4
+- Fixed up readme
+
+
 ## 1.0.0+3
   * Moved package to [Flutter Community](https://github.com/fluttercommunity)
   * Added Flutter Community Logo.

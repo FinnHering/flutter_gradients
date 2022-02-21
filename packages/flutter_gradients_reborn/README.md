@@ -1,7 +1,7 @@
 # Flutter Gradients Reborn
-**Disclaimer: The only thing I did was migrate the project to have null safety. The Author of this fork is in no way associated with the original project. **
+<img src="https://raw.githubusercontent.com/FinnHering/flutter_gradients/master/images/header.jpg" align="center" alt="Header" height="500" width="100%"/>
 
-Original Project: https://pub.dev/packages/flutter_gradients
+Disclaimer: The only thing I did was migrate the project to have null safety. The Author of this fork is in no way associated with the original project. This is the original project: https://pub.dev/packages/flutter_gradients
 
 A curated collection of awesome gradients made in Dart (port of [https://webgradients.com](https://webgradients.com) for Flutter). Only linear gradients included for now.
 
@@ -14,7 +14,7 @@ Add the Package
 
 ```yaml
 dependencies:
-  flutter_gradients_reborn: ^1.0.0+3
+  flutter_gradients_reborn: ^1.0.0+4
 ```
 
 # Usage
